@@ -1,5 +1,9 @@
 # TECHBOAT
-Repositório com o código fonte do projeto TECHBOAT
+Repositório com o código fonte do projeto TECHBOAT.
+
+O link para o Notebook no Google Colab foi submetido, ou pode ser acessado aqui: https://colab.research.google.com/drive/1bhryolf8R-4AsoXPmQ0Uj5rTh0lFdU78?usp=sharing
+
+Uma cópia do Notebook está disponível também neste repositório.
 
 **O protótipo desenvolvido é apresentado em duas partes:**
 
